@@ -96,7 +96,7 @@
             <p>John developed his own website and was proud of his creation. However, he had made a mistake that would come back to haunt him.<br>
             One day, John received an email containing a link to his website. The email claimed that he needed to log in because an attacker was trying to hack his website. John had a strange feeling and decided to investigate.<br><br>
             He soon discovered that a hacker had found a vulnerability on his website that was allowing them to display a fake phishing page to steal his credentials.<br><br>
-            Find the vulnerability.</p>
+            Find the vulnerability that the hacker used to perform his attack.</p>
         </div>
         <form action="title.php" method="get">
             <label for="search">Search:</label>
@@ -104,7 +104,7 @@
             <input type="submit" value="Search" />
         </form>
     </div>
-    <audio id="audio" src="https://www.google.com/speech-api/v2/synthesize?enc=mpeg&client=chromium&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&text=John%20developed%20his%20own%20website%20and%20was%20proud%20of%20his%20creation.%20However%2C%20he%20had%20made%20a%20mistake%20that%20would%20come%20back%20to%20haunt%20him.%0AOne%20day%2C%20John%20received%20an%20email%20containing%20a%20link%20to%20his%20website.%20The%20email%20claimed%20that%20he%20needed%20to%20log%20in%20because%20an%20attacker%20was%20trying%20to%20hack%20his%20website.%20John%20had%20a%20strange%20feeling%20and%20decided%20to%20investigate.%0A%0AHe%20soon%20discovered%20that%20a%20hacker%20had%20found%20a%20vulnerability%20on%20his%20website%20that%20was%20allowing%20them%20to%20display%20a%20fake%20phishing%20page%20to%20steal%20his%20credentials.%0A%0AFind%20the%20vulnerability.&lang=en-GB&name=rjs&speed=0.5&pitch=0.5"></audio>
+    <audio id="audio" src="https://www.google.com/speech-api/v2/synthesize?enc=mpeg&client=chromium&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&text=John%20developed%20his%20own%20website%20and%20was%20proud%20of%20his%20creation.%20However%2C%20he%20had%20made%20a%20mistake%20that%20would%20come%20back%20to%20haunt%20him.%0AOne%20day%2C%20John%20received%20an%20email%20containing%20a%20link%20to%20his%20website.%20The%20email%20claimed%20that%20he%20needed%20to%20log%20in%20because%20an%20attacker%20was%20trying%20to%20hack%20his%20website.%20John%20had%20a%20strange%20feeling%20and%20decided%20to%20investigate.%0A%0AHe%20soon%20discovered%20that%20a%20hacker%20had%20found%20a%20vulnerability%20on%20his%20website%20that%20was%20allowing%20them%20to%20display%20a%20fake%20phishing%20page%20to%20steal%20his%20credentials.%0A%0AFind%20the%20vulnerability%20that%20the%20hacker%20used%20to%20perform%20his%20attack.&lang=en-GB&name=rjs&speed=0.5&pitch=0.5"></audio>
     
     <script>
         function playAudio() {
