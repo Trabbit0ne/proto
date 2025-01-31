@@ -57,5 +57,9 @@
         <input type="submit" value="Submit" />
     </form>
     <p>Hello, <script>document.write(getName());</script>!</p>
+
+    <div class="scenario-box">
+        <p>After submitting a simple form, the greeting message seemed a little odd. Something unexpected happened when the page loaded. Can you figure out what went wrong and where the problem might be?</p>
+    </div>
 </body>
 </html>
