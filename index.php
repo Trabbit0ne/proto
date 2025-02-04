@@ -72,10 +72,10 @@
     <div class="main-content">
         <header><h1>VUXA</h1></header>
         <div class="exercices">
-            <button class="btn" onclick="location.href='http://trabbit.mywebcommunity.org/xss/title.php'">
+            <button class="btn" onclick="location.href='xss/title.php'">
                 Escape The Matrix - ( Filter Bypass + Reflected XSS )
             </button>
-            <button class="btn" onclick="location.href='http://trabbit.mywebcommunity.org/xss/input.php'">
+            <button class="btn" onclick="location.href='xss/input.php'">
                 The Classic XSS - ( Reflected XSS )
             </button>
         </div>
